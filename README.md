@@ -2,8 +2,7 @@
 
 ## About 🖥️
 
-[![PUC - Rio](https://img.shields.io/badge/PUC--Rio-blue)]()
-[![Computer Science](https://img.shields.io/badge/Computer%20Science-green)]()
+[![Computer Science](https://img.shields.io/badge/PUC%20--%20Rio-Computer%20Science-2d703f)]()
 <!--[![Working at ](https://img.shields.io/badge/Working%20at--blue)]()-->
 
 ---
@@ -36,7 +35,7 @@
 
 ---
 
-## 📫 How to reach me
+##  How to reach me 📫
 
 - 🌎 E-mail: rftolini@gmail.com
 - 📲 Discord: rafaeltolini
