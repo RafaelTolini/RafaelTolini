@@ -1,10 +1,10 @@
 # Rafael Tolini
 
-## About 🖥️
+## 🖥️ About
 
-Computer Science student at PUC-Rio focused on full-stack development, backend systems, and applied machine learning.
+Computer Science student at PUC-Rio focused on backend development, full-stack web applications, and applied machine learning.
 
-I build practical software for real-world problems, including internal business tools, data-driven applications, and embedded ML systems.
+I design and build systems end-to-end, including database modeling, API development, and user interfaces, with an emphasis on reliability and practical use in real environments.
 
 ---
 
@@ -18,21 +18,42 @@ I build practical software for real-world problems, including internal business 
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Selected Projects
 
 ### [Inventory Management System](https://github.com/RafaelTolini/inventory-management-system)
-Full-stack internal tool for managing products, suppliers, and stock movements.  
-**FastAPI • React • PostgreSQL • Docker**
+Full-stack web application for managing products, suppliers, and stock movements.
 
+- REST API with FastAPI
+- Relational data model with PostgreSQL and SQLAlchemy
+- Database migrations with Alembic
+- React frontend for data management and reporting
+- Dockerized PostgreSQL environment
+
+**Stack:** FastAPI • React • PostgreSQL • Docker
+
+---
 
 ### [Heatmap Corner Detection](https://github.com/RafaelTolini/heatmap-corner-detection)
-Computer vision project using convolutional neural networks for corner detection.  
-**TensorFlow • Keras**
+Computer vision system for detecting image corners using convolutional neural networks.
 
+- Heatmap-based prediction approach
+- Model training with TensorFlow/Keras
+- Synthetic dataset generation and evaluation
+
+**Stack:** TensorFlow • Keras • Python
+
+---
 
 ### [Gistinho — Speech Recognition for ESP32-S3](https://github.com/RafaelTolini/Gistinho)
-Embedded ML application using the ESP-Skainet framework for on-device speech recognition.
+Embedded machine learning application for on-device speech recognition.
 
+- Wake-word detection using ESP-Skainet
+- Deployment on ESP32-S3 microcontroller
+- Integration of embedded hardware and ML inference
+
+**Stack:** ESP32 • Embedded C • Skainet
+
+---
 
 ## 📫 Contact
 
