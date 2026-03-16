@@ -2,7 +2,7 @@
 
 ## 🖥️ About
 
-Computer Science student at PUC-Rio focused on backend development, full-stack web applications, and applied machine learning.
+Backend-focused developer and Computer Science student at PUC-Rio focused on backend development, full-stack web applications, and applied machine learning.
 
 I design and build systems end-to-end, including database modeling, API development, and user interfaces, with an emphasis on reliability and practical use in real environments.
 
@@ -14,14 +14,14 @@ I design and build systems end-to-end, including database modeling, API developm
 **Frontend:** JavaScript, React  
 **Databases:** PostgreSQL, SQLAlchemy  
 **DevOps & Tooling:** Docker, Alembic, Poetry, Git  
-**Other:** C++, TensorFlow/Keras, Embedded ML (ESP32)
+**Systems & ML:** C++, TensorFlow/Keras, Embedded ML (ESP32)
 
 ---
 
 ## ⭐ Selected Projects
 
 ### [Inventory Management System](https://github.com/RafaelTolini/inventory-management-system)
-Full-stack web application for managing products, suppliers, and stock movements.
+Full-stack web application for managing products, suppliers, and stock movements. Designed for internal operations that require structured inventory tracking and auditability.
 
 - REST API with FastAPI
 - Relational data model with PostgreSQL and SQLAlchemy
