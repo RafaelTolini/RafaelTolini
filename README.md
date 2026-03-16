@@ -2,40 +2,39 @@
 
 ## About 🖥️
 
-[![Computer Science](https://img.shields.io/badge/PUC%20--%20Rio-Computer%20Science-2d703f)]()
-<!--[![Working at ](https://img.shields.io/badge/Working%20at--blue)]()-->
+Computer Science student at PUC-Rio focused on full-stack development, backend systems, and applied machine learning.
+
+I build practical software for real-world problems, including internal business tools, data-driven applications, and embedded ML systems.
 
 ---
 
-## Experience in ✔️
+## 🧰 Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+**Backend:** Python, FastAPI, Django, Flask  
+**Frontend:** JavaScript, React  
+**Databases:** PostgreSQL, SQLAlchemy  
+**DevOps & Tooling:** Docker, Alembic, Poetry, Git  
+**Other:** C++, TensorFlow/Keras, Embedded ML (ESP32)
 
 ---
 
-## Repositories 📚
+## ⭐ Featured Projects
 
-### Projects at PUC-Rio
-- **MAT1320** *Matemática Discreta*: [PontesDeKonigsberg](https://github.com/RafaelTolini/PontesDeKonigsberg)
-- **INF1032** *Introdução à Ciência dos Dados*: [DadosSaude](https://github.com/RafaelTolini/DadosSaude)
-- **INF1022** *Analisadores Léxicos e Sintáticos*: [Matemagica](https://github.com/RafaelTolini/Matemagica)
-- **INF1039** *Projetos: Aplicações Interativas*: [Pucly](https://github.com/RafaelTolini/Pucly)
+### [Inventory Management System](https://github.com/RafaelTolini/inventory-management-system)
+Full-stack internal tool for managing products, suppliers, and stock movements.  
+**FastAPI • React • PostgreSQL • Docker**
 
-### Other Projects
-- [**heatmap-corner-detection**](https://github.com/RafaelTolini/heatmap-corner-detection): A corner detection application using Tensorflow-Keras
-- [**Gistinho**](https://github.com/RafaelTolini/Gistinho): A speech recognition application for the ESP32S3 using the Skainet framework
 
----
+### [Heatmap Corner Detection](https://github.com/RafaelTolini/heatmap-corner-detection)
+Computer vision project using convolutional neural networks for corner detection.  
+**TensorFlow • Keras**
 
-##  How to reach me 📫
 
-- 🌎 E-mail: rftolini@gmail.com
-- 📲 Discord: rafaeltolini
+### [Gistinho — Speech Recognition for ESP32-S3](https://github.com/RafaelTolini/Gistinho)
+Embedded ML application using the ESP-Skainet framework for on-device speech recognition.
 
+
+## 📫 Contact
+
+- Email: [rftolini@gmail.com](mailto:rftolini@gmail.com)
+- Discord: `rafaeltolini`
